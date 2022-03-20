@@ -32,3 +32,6 @@ I'm a backend developer from Germany working for a company that develops an ente
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg" title="Debian" alt="Debian" width="80" height="80"/>&nbsp;&nbsp;
 </div>
 
+### 📫 Contact
+[![Mail](https://img.shields.io/badge/git@klemm.one-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:git@klemm.one)
+[![PGP](https://img.shields.io/keybase/pgp/klemmchr?style=for-the-badge)](https://keybase.io/klemmchr)
