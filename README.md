@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a backend developer from Germany working for a company that develops an enterprise SaaS Platform.
+I'm a backend developer and DevOps engineer from Germany working for a company that develops an enterprise SaaS Platform hosted on Microsoft Azure.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=klemmchr&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
